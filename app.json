@@ -1,7 +1,7 @@
 {
-    "name": "Nezuko",
+    "name": "Ruka Chan",
     "description": "Telegram Group Management Bot Written In Python Using Pyrogram.",
-    "repository": "https://github.com/rozari0/NezukoBot",
+    "repository": "https://github.com/youknowmj09/Rukachanbot_",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
     "keywords": [
     "python3",
@@ -11,18 +11,18 @@
     "telegram-bot",
     "pyrogram"
     ],
-    "repository": "https://github.com/rozari0/NezukoBot",
+    "repository": "https://github.com/youknowmj/Rukachan_bot",
     "stack": "container",
     "env": {
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {7051180505:AAG23BI5puF6kx7TwZLyEU_pY71Np93DrKI
             "description": "Obtain a Telegram bot token by contacting @BotFather",
             "required": true
         },
-        "API_ID": {
+        "API_ID": {25956382
             "description": "API_ID of your Telegram Account my.telegram.org/apps",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {a9f8c81d022945095b429b8648166c67
             "description": "API_HASH of your Telegram Account my.telegram.org/apps",
             "required": true
         },
@@ -30,11 +30,11 @@
             "description": "Sudo users have full access to everythin, don't trust anyone... ex:- 123456 654311 123456",
             "required": true
         },
-        "LOG_GROUP_ID": {
+        "LOG_GROUP_ID": {1002102392349
             "description": "For logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
             "required": true
         },
-        "GBAN_LOG_GROUP_ID": {
+        "GBAN_LOG_GROUP_ID": {1002102392349
             "description": "gban logs. ex: '-123456'",
             "required": true
         },
@@ -64,7 +64,7 @@
             "value": "300",
             "required": true
         },
-	"OWNER_ID":{
+	"OWNER_ID":{youknowmj
 		"description": "Owner id of bot",
 		"required":true
 	}
